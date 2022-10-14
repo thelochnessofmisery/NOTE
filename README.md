@@ -4,4 +4,10 @@ This is the notes repo created by me. Please feel free to add other notes from y
 
 We are all leaning 
 
-These are collection of notes and methodologies for various kinds of study materials .
+These are collection of notes and methodologies for various kinds of educational materials .
+
+
+Please find the  resources and use them at your own risk 
+
+
+|pg| Cyber Security Enthusiast | Exploit Developer | Ethical hacker |
