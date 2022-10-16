@@ -1,0 +1,20 @@
+General Wireshark Working Methodology
+
+I have been using wireshark for a long time, very long time to be honest but I have seen that there are various types of methodologies that people use. 
+
+This is my personal methodology and I seem to enjoy this more than other things, I generally change the methodology according to the need of the capture. 
+This is the basic methodology that I generally use. 
+
+Firstly, I prefer to ping the website (I prefer the terminal)
+
+Then I choose the interface, for example in this instance eth0 or eth1. 
+
+After that, I generally use a preferred browser firefox and then I open the related website. 
+
+After that, we can see the packets over there.
+
+We have seen that, sometimes the webpage is http or https, regarding these topics we can see that HTTP has no encryption and we can read the vulnerable data openly.
+
+As for HTTPS,we have seen that HTTPS has great encryption and can we decrypt the methodologies? 
+
+We dont know for sure, keep on reading for the various kinds of things we can learn.
